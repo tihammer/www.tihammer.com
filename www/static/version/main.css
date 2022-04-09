@@ -1,0 +1,20 @@
+/* think mobile first and then respond to larger sizes. */
+/* for example, body will be 100% wide up to some width */
+/* then it stays fixed width and centers itself. */
+
+html {
+  background-color: #ffffff;
+  font-family: sans-serif;
+  font-size: 10pt;
+}
+
+body {
+  margin: 0px auto;
+  border: 1px solid #00c2cb;
+  padding: 0px;
+}
+
+header {
+  width: 100%;
+  text-align: center;
+}

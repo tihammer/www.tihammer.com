@@ -1,0 +1,7 @@
+encoding: utf-8
+timezone: Etc/UTC
+liquid:
+  error_mode: strict
+  strict_variables: true
+  strict_filters: true
+strict_front_matter: true
